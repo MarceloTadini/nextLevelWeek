@@ -69,6 +69,8 @@ document.querySelector("select[name=uf]")
     
     const itemId = itemLi.dataset.id
 
+   // console.log('ITEM ID:', itemId)
+
     
     //Verificar se tem itens selecionados e retonar o valor
 
@@ -92,6 +94,8 @@ document.querySelector("select[name=uf]")
         selectedItems.push(itemId)
     }
     //Atualizar o campo esondido com os itens selecionados
+
+    //console.log('selectedItems Id :', selectedItems)
 
     collectedItems.value = selectedItems
      

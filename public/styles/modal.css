@@ -85,3 +85,15 @@
     background-color: #2fb86e;
 }
 
+/*Para o modal da point-created*/
+
+#modal.point .content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#modal.point h1{
+    color: white;
+    margin-top: 16px;
+}
