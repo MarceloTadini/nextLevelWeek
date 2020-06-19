@@ -4,7 +4,6 @@
 
     /*Alinhamento de caixa pelo lado de fora */
     margin: 0 auto;
-
 }
 
 #page-create-point header {
@@ -59,7 +58,6 @@ form legend{
 
     align-items: center;
     justify-content: space-between;
-   
 }
 
 form legend h2 {
@@ -75,8 +73,7 @@ form .field{
     flex: 1;
     display: flex;
     flex-direction: column;
-    margin-bottom: 24px;
-   
+    margin-bottom: 24px;  
 }
 
 form .field-group {
@@ -125,7 +122,6 @@ form button{
     margin-top: 40px;
 
     transition: background-color 400ms; /*Para fazer a mudança da cor quando passar o mouse cima do botão ficar mais suave */
-
 }
 
 form button:hover{ /*Quando passar o mouse em cima vai acontecer as instruções dadas */
