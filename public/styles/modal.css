@@ -86,7 +86,6 @@
 }
 
 /*Para o modal da point-created*/
-
 #modal.point .content{
     display: flex;
     flex-direction: column;
