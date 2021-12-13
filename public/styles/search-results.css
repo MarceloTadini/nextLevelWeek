@@ -29,6 +29,12 @@ body::after{
     align-items: center;
 }
 
+#page-search-results header p{
+color: var(--title-color);
+    font-size: 3rem;
+    font-weight: 700;
+}
+
 #page-search-results header a {
     color: var(--title-color);
     font-weight: bold; 

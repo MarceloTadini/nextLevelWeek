@@ -27,6 +27,12 @@
 
 }
 
+#page-home header p {
+    color: var(--title-color);
+    font-size: 3rem;
+    font-weight: 700;
+}
+
 #page-home header a {
 
     display: flex;
